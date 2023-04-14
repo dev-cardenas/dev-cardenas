@@ -1,11 +1,11 @@
 ### Hi, I'm Fernando Ramon Salinas Cardenas 👋 🚀 🖥️ 🤸🏼
 ##### A passionate Full Stack Web Developer based in Paraguay</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-cardenas&label=Profile%20views&color=0e75b6&style=flat" alt="dev-cardenas" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-cardenas&label=Profile%20views&color=0e75b6&style=flat" alt="dev-cardenas" /> </p> -->
 
 ```js
 const dev_cardenas = {
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python']
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
   tools: ['React', 'React-Native', 'Node.js', 'Typescript']
 }
 ```
